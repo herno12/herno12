@@ -23,8 +23,14 @@ Si te interesa mi perfil, podés contactarme por mail: hdanziger@gmail.com
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=herno12&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=herno12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=herno12&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=herno12&theme=merko&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=herno12&theme=merko)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=herno12&theme=merko&include_all_commits=false&count_private=false&layout=compact)
+
+
+![](https://github-readme-stats.vercel.app/api?username=herno12&theme=dark&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=herno12&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=herno12&theme=dark&include_all_commits=false&count_private=false&layout=compact)
 
 
