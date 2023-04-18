@@ -24,6 +24,56 @@ Si te interesa mi perfil, puedes contactarme por mail: hdanziger@gmail.com
 
 ## 🏗️ 👷 Projects:
 [AppDoptame](https://github.com/matipeco/deployAppdoptame)
+### 🐶 About [AppDoptame](https://github.com/matipeco/deployAppdoptame)
+This apps allows Animal Protection Associations (APAs) to publish the pets that they have under their care, and that are looking for a home, through a Dashboard. Users can find these different pets using different criteria, such as their type, size, and geographic location. They can start the adoption process online, or make a donation to the corresponding APA through Stripe. In both cases, both the user and the APA will receive a notification via email in this regard. Users can log in after generating a username and password, or through their Google accounts. They also have a Favourites section where they can "save" the pets that they like the most.
+
+AppDoptame Features:
+<ul>
+<li>Sing up with email and password or Google account.</li>
+<li>3 different roles with different permissions and sections: User, Animal Protection Association, Admin.</li>
+<li>Pets sorting and filtering.</li>
+<li>Logical deletion.</li>
+<li>Dashboard for APAs in which they create, edit and manage the pets they publish.</li>
+<li>Dashboard for Admin with access to all functions.</li>
+<li>Stripe Payment Gateway Integration to receive donations.</li>
+<li>Users can save pets in the Favurites section.</li>
+<li>Users can write reviews and rate APAs</li>
+</ul>
+
+<h3>Tech & libraries:</h3>
+<h4>Node | React | Redux | JavaScript | TypeScript | Stripe | Cloudinay | Nodemailer | MongoDB | Express | CSS | HTML5 | oAuth | MUI | Axios | Mongoose | Nodemon | .ENV</h4>
+
+
+### 🐶 Sobre AppDoptame:
+Se trata de un App en la que distintas Asociaciones Protectoras de Animales (APAs) pueden publicar las mascostas que tiene bajo su cuidado y que están buscando un hogar, a través de un Dashboard. 
+Los usuarios pueden ver dichas distintas mascotas utilizando distintos criterios, como su tipo, tamaño y ubicación geográfica. Pueden iniciar el proceso de adopción online, o bien realizar una donación a la APA correspondiente a través de Stripe. En ambos casos recibirán tanto el usuario como la APA una notificación via mail al respecto.
+Los usuarios pueden loguearse luego de generar un usuario y contraseña, o bien a través de sus cuentas de Google. También cuentan con una sección de Favoritos donde pueden ir "guardando" las mascotas que más les gusten o llamen la atención.
+
+Funcionalidades de AppDoptame:
+<ul>
+<li>Registro de usuarios con su mail y contraseña o su cuenta Google.</li>
+<li>3 roles distintos con diferentes permisos y secciones: Usuarios, Asociacion Protectoras de Animales, Admin.</li>
+<li>Filtrado y ordenamiento de las mascotas de acuerdo a disintos criterios.</li>
+<li>Borrado lógico.</li>
+<li>Dashboard para APAs en el manejan crean, editan y manejan a las mascotas que publican.</li>
+<li>Dashboard para Admin con acceso a todas las funciones.</li>
+<li>Integración de Pasarela de Pagos Stripe para recibir donaciones.</li>
+<li>Guardado de mascotas en sección Favoritos.</li>
+<li>Reviews y puntuación de usuarios respecto a las APAs y el proceso de adopción.</li>
+</ul>
+
+<h3>Tecnologías y librerías utilizadas:</h3>
+<h4>Node | React | Redux | JavaScript | TypeScript | Stripe | Cloudinay | Nodemailer | MongoDB | Express | CSS | HTML5 | oAuth | MUI | Axios | Mongoose | Nodemon | .ENV</h4>
+
+<p align="center">
+  <a><img width="250px" src=https://github.com/herno12/AppDoptame/blob/main/images/AppDoptmae-Landing.png/></a>
+  <a><img width="250px" src=https://github.com/herno12/AppDoptame/blob/main/images/AppDoptmae-Login.png/></a>
+  <br />
+  <a><img width="250px" src=https://github.com/herno12/AppDoptame/blob/main/images/AppDoptmae-Home1.png/></a>
+  <a><img width="250px" src=https://github.com/herno12/AppDoptame/blob/main/images/AppDoptmae-Home2.png/></a>
+  <br />
+  <a><img width="250px" src=https://github.com/herno12/AppDoptame/blob/main/images/AppDoptmae-Donation.png/></a>
+</p>
 
 
 
