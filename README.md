@@ -29,7 +29,7 @@ This apps allows Animal Protection Associations (APAs) to publish the pets that 
 
 AppDoptame Features:
 <ul>
-<li>Sign up with email and password or Google account.</li>
+<li>Sign up and log in with email and password or Google account.</li>
 <li>3 different roles with different permissions and sections: User, Animal Protection Association, Admin.</li>
 <li>Pets sorting and filtering.</li>
 <li>Logical deletion.</li>
