@@ -24,7 +24,7 @@ Si te interesa mi perfil, puedes contactarme por mail: hdanziger@gmail.com
 
 ## 🏗️ 👷 Projects:
 
-### 🐶 About [AppDoptame](https://github.com/matipeco/deployAppdoptame)
+### 🐶 About [AppDoptame](https://github.com/herno12/AppDoptame)
 This apps allows Animal Protection Associations (APAs) to publish the pets that they have under their care, and that are looking for a home, through a Dashboard. Users can find these different pets using different criteria, such as their type, size, and geographic location. They can start the adoption process online, or make a donation to the corresponding APA through Stripe. In both cases, both the user and the APA will receive a notification via email in this regard. Users can log in after generating a username and password, or through their Google accounts. They also have a Favourites section where they can "save" the pets that they like the most.
 
 AppDoptame Features:
@@ -44,7 +44,7 @@ AppDoptame Features:
 <h4>Node | React | Redux | JavaScript | TypeScript | Stripe | Cloudinay | Nodemailer | MongoDB | Express | CSS | HTML5 | oAuth | MUI | Axios | Mongoose | Nodemon | .ENV</h4>
 
 
-### 🐶 Sobre [AppDoptame](https://github.com/matipeco/deployAppdoptame)
+### 🐶 Sobre [AppDoptame](https://github.com/herno12/AppDoptame)
 Se trata de un App en la que distintas Asociaciones Protectoras de Animales (APAs) pueden publicar las mascostas que tiene bajo su cuidado y que están buscando un hogar, a través de un Dashboard. 
 Los usuarios pueden ver dichas distintas mascotas utilizando distintos criterios, como su tipo, tamaño y ubicación geográfica. Pueden iniciar el proceso de adopción online, o bien realizar una donación a la APA correspondiente a través de Stripe. En ambos casos recibirán tanto el usuario como la APA una notificación via mail al respecto.
 Los usuarios pueden loguearse luego de generar un usuario y contraseña, o bien a través de sus cuentas de Google. También cuentan con una sección de Favoritos donde pueden ir "guardando" las mascotas que más les gusten o llamen la atención.
