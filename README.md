@@ -23,7 +23,7 @@ Si te interesa mi perfil, puedes contactarme por mail: hdanziger@gmail.com
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 🏗️ 👷 Projects:
-[AppDoptame](https://github.com/matipeco/deployAppdoptame)
+
 ### 🐶 About [AppDoptame](https://github.com/matipeco/deployAppdoptame)
 This apps allows Animal Protection Associations (APAs) to publish the pets that they have under their care, and that are looking for a home, through a Dashboard. Users can find these different pets using different criteria, such as their type, size, and geographic location. They can start the adoption process online, or make a donation to the corresponding APA through Stripe. In both cases, both the user and the APA will receive a notification via email in this regard. Users can log in after generating a username and password, or through their Google accounts. They also have a Favourites section where they can "save" the pets that they like the most.
 
@@ -44,7 +44,7 @@ AppDoptame Features:
 <h4>Node | React | Redux | JavaScript | TypeScript | Stripe | Cloudinay | Nodemailer | MongoDB | Express | CSS | HTML5 | oAuth | MUI | Axios | Mongoose | Nodemon | .ENV</h4>
 
 
-### 🐶 Sobre AppDoptame:
+### 🐶 Sobre [AppDoptame](https://github.com/matipeco/deployAppdoptame)
 Se trata de un App en la que distintas Asociaciones Protectoras de Animales (APAs) pueden publicar las mascostas que tiene bajo su cuidado y que están buscando un hogar, a través de un Dashboard. 
 Los usuarios pueden ver dichas distintas mascotas utilizando distintos criterios, como su tipo, tamaño y ubicación geográfica. Pueden iniciar el proceso de adopción online, o bien realizar una donación a la APA correspondiente a través de Stripe. En ambos casos recibirán tanto el usuario como la APA una notificación via mail al respecto.
 Los usuarios pueden loguearse luego de generar un usuario y contraseña, o bien a través de sus cuentas de Google. También cuentan con una sección de Favoritos donde pueden ir "guardando" las mascotas que más les gusten o llamen la atención.
@@ -78,7 +78,9 @@ Funcionalidades de AppDoptame:
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=herno12&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api?username=herno12&theme=merko&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=herno12&theme=merko)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=herno12&theme=merko&include_all_commits=false&count_private=false&layout=compact)
 
 
 
