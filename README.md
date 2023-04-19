@@ -101,9 +101,9 @@ ACLARACIÓN: Esto es un Trabajo en Progreso. La estética será mejorada y nueva
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=herno12&theme=merko&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=herno12&theme=merko)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=herno12&theme=merko&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=herno12&theme=great-gatsby&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=herno12&theme=great-gatsby)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=herno12&theme=great-gatsby&include_all_commits=false&count_private=false&layout=compact)
 
 
 
